@@ -17,7 +17,7 @@ MonoBehaviour:
   description: "This is a reupload of a module, unsubscribe from the old version here:
     https://steamcommunity.com/sharedfiles/filedetails/?id=2897159727\n\nDetermine
     which cards on the module create a S.E.T. of Q.E.D.s.\n\nHTML: https://ktane.timwi.de/HTML/Q.E.D..html\r\nPDF:
-    https://ktane.timwi.de/PDF/Q.E.D..pdf\r\n\r\nQ.E.D. (qed) v1.3\nModule by BakersDozenBagels,
+    https://ktane.timwi.de/PDF/Q.E.D..pdf\r\n\r\nQ.E.D. (QED) v1.3\nModule by BakersDozenBagels,
     maintained by eXish\r\nTwitch Plays supported"
   version: 1.3
   outputFolder: build
